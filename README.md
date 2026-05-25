@@ -13,3 +13,6 @@ The objective of this project is to analyze hospital emergency room performance 
 
 ## Dataset
 <a href="https://github.com/shubhamds25/Hospital_Emergency_Room_Dashboard/blob/main/Hospital_emergency_data.csv">Dataset</a>
+
+## Dashboard
+[Screenshot.png](https://github.com/shubhamds25/Hospital_Emergency_Room_Dashboard/blob/main/Screenshot.png)
